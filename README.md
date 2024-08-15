@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mark James Cautibar</h1>
-<h3 align="center">This repository showcases my journey as a Data field pursuer</h3>
+# Hi, I'm Mark James Cautibar.
 
-- 📫 How to reach me **markjames.cautibar@gmail.com**
+This repository documents my journey as a data field pursuer. Passionate about transforming raw data into actionable insights, I’m always exploring new tools and techniques to excel in the data field.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 📬 Connect with me:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+
+## 🛠️ Technologies Used:
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat-square&logo=Microsoft%20Excel&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white)
