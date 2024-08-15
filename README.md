@@ -9,16 +9,9 @@ This repository documents my journey as a data field pursuer. Passionate about t
 
 ## 🛠️ Technologies Used:
 
-### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=MySQL&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-
-### Tools
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat-square&logo=Microsoft%20Excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
-
-
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
